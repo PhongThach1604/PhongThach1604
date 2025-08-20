@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**PhongThach1604/PhongThach1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Phong Thach  
 
-Here are some ideas to get you started:
+🎓 Master of Analytics | 📊 Data Analyst & Business Analyst | 💡 Data Storyteller  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in turning complex data into clear insights and decision-ready solutions.  
+My background includes hands-on work with **Python, R, SAS, SQL, and Power BI**, and practical experience as a **Business Analyst Intern** where I bridged data analysis with business needs.  
+
+---
+
+## 🔑 What I Do
+- **Data Analytics**: Statistical analysis, predictive modeling, and data visualization.  
+- **Business Analysis**: Requirements gathering, testing workflows, and process improvement.  
+- **Tools**: Python (Pandas, NumPy, scikit-learn), R, SAS, SQL, Power BI, Excel.  
+
+---
+
+## 📂 Featured Projects
+- [🏠 Home Loan Scorecard](link-to-repo) — Risk segmentation model using SAS & Python.  
+- [📈 Olist E-Commerce Dashboard](link-to-repo) — Power BI report with customer, seller, and fulfillment insights.  
+- [🚗 Car Price Prediction](link-to-repo) — ML regression models in Python with explainability.  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](your-linkedin)  
+- [GitHub Projects](https://github.com/PhongThach1604)  
+- 📧 phongthach.paul@gmail.com  
+
+---
+⭐ *I’m always open to collaboration on data analytics and business intelligence projects.*
