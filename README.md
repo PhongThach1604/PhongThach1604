@@ -18,7 +18,7 @@ My background includes hands-on work with **Python, R, SAS, SQL, and Power BI**,
 
 ## 📂 Featured Projects
 - [🏠 Home Loan Scorecard](link-to-repo) — Risk segmentation model using SAS & Python.  
-- [📈 Olist E-Commerce Dashboard]([link-to-repo](https://github.com/PhongThach1604/Power-BI-Dashboard-Report) — Power BI report with customer, seller, and fulfillment insights.  
+- [📈 Olist E-Commerce Dashboard](https://github.com/PhongThach1604/Power-BI-Dashboard-Report) — Power BI report with customer, seller, and fulfillment insights.  
 - [🚗 Car Price Prediction](link-to-repo) — ML regression models in Python with explainability.  
 
 ---
